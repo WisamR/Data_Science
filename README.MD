@@ -1,3 +1,3 @@
 ##  Data understanding and visualization
 
-* [Click_here](python/python.html)
+* [Click_here to see the files](python)
